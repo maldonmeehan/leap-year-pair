@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _EPICODUS STUDENT PROJECT | BDD Practice: Build a leap-year checker_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Leap Year Checker, June 8, 2016_
 
-#### By _**{List of contributors}**_
+#### By _**Marty Fitchen, Maldon Meehan, Epicodus**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This is an Epicodus student project creating a web page that uses front-end user interface logic to gather an input and check if it is a leap year (using back-end logic). This is an lesson in Behavior Driven Development (BDD) to learn to code using just the least amount of clean code to establish true and false booleans based on expected outputs based on potential user inputs. In addition, adding behaviors that will ignore various user inputs (i.e., " ", a, B, !, etc.)._
 
 * _The program should return when a year is not a leap year._
   * _Input Example: 1993_
@@ -25,15 +25,13 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 * _Establish an internet connection_
 * _Open a web browser_
-* _Visit GitHub Repo: <a href="https://github.com/mfitchen/leap-year">https://github.com/mfitchen/leap-year</a>_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Visit (Marty's) GitHub Repo: <a href="https://github.com/mfitchen/leap-year">https://github.com/mfitchen/leap-year</a>_
+* _Visit (Maldon's) GitHub Repo: <a href="https://github.com/maldonmeehan/leap-year-pair">https://github.com/maldonmeehan/leap-year-pair</a>_
+* _Enter a year and have fun!_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+* _Any user input other than a year currently returns "NaN is not a leap year"._
 
 ## Support and contact details
 
@@ -41,10 +39,23 @@ _If you run into any issues or have questions, ideas, or concerns, please feel f
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _jQuery (jquery-1.12.4.js)_
+* _Bootstrap (bootstrap.min.css)_
+* _Atom_
+* _Terminal_
+* _Git_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Marty Fitchen, Maldon Meehan, Epicodus_**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
