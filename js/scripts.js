@@ -1,4 +1,10 @@
 // business logic
+// var leapYear = function(year) {
+//   if (year === NaN) {
+//     return false;
+//   }
+// };
+
 var leapYear = function(year) {
   if ((year % 4 === 0) && (year % 100 !== 0) || (year % 400 === 0)) {
     return true;
@@ -22,6 +28,7 @@ $(document).ready(function() {
       $(".not").text("");
     }
 
+    alert("Great job!");
     $("#result").show();
   });
 });

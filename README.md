@@ -20,6 +20,9 @@ _This is an Epicodus student project creating a web page that uses front-end use
 * _The program should return 'true' for years divisible by 400, since those are leap years._
   * _Input Example: 2000_
   * _Output Example: true_
+* _The program should return 'false' for inputted letters (which would then include full words [real or not] and sentences, such as "Nineteen Ninety Nine")._
+    * _Input Example: a (or A)_
+    * _Output Example: false_
 
 ## Setup/Installation Requirements
 
