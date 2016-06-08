@@ -11,22 +11,21 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _The program should return when a year is not a leap year._
   * _Input Example: 1993_
   * _Output Example: false_
-
-The program should return 'true' for years divisible by 4, since those are leap years.
-Input Example: 2004
-Output Example: true
-The program should return 'false' for years divisible by 100, since those are not leap years.
-Input Example: 1900
-Output Example: false
-The program should return 'true' for years divisible by 400, since those are leap years.
-Input Example: 2000
-Output Example: true
+* _The program should return 'true' for years divisible by 4, since those are leap years._
+  * _Input Example: 2004_
+  * _Output Example: true_
+* _The program should return 'false' for years divisible by 100, since those are not leap years._
+  * _Input Example: 1900_
+  * _Output Example: false_
+* _The program should return 'true' for years divisible by 400, since those are leap years._
+  * _Input Example: 2000_
+  * _Output Example: true_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
+* _Establish an internet connection_
+* _Open a web browser_
+* _Visit GitHub Repo: <a href="https://github.com/mfitchen/leap-year">https://github.com/mfitchen/leap-year</a>_
 * _easy-to-understand_
 * _format_
 
@@ -38,7 +37,7 @@ _{Are there issues that have not yet been resolved that you want to let users kn
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If you run into any issues or have questions, ideas, or concerns, please feel free to contact Marty at <a href="mailto:mfitchen@gmail.com">mfitchen@gmail.com</a> or Maldon at <a href="mailto:maldonmeehan@gmail.com">maldonmeehan@gmail.com</a>._
 
 ## Technologies Used
 
